@@ -1,7 +1,2 @@
 #!/bin/bash
-pwd
-cd /tmp/
-pwd
-mkdir holberton
-cd /tmp/holberton
-pwd
+cd /tmp/ mkdir holberton cd /tmp/holberton
