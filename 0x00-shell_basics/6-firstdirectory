@@ -1,0 +1,7 @@
+#!/bin/bash
+pwd
+cd /tmp/
+pwd
+mkdir holberton
+cd /tmp/holberton
+pwd

@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+cd /tmp/
+pwd
+ls
+mv betty /tmp/holberton

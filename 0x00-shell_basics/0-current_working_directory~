@@ -1,0 +1,4 @@
+#!/bin/bash
+#My firts script
+
+echo "Hello wordl"
