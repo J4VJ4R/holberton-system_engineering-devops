@@ -1,6 +1,2 @@
 #!/bin/bash
-pwd
-cd /tmp/
-pwd
-ls
-mv betty /tmp/holberton
+cd /tmp/ mv betty /tmp/holberton
