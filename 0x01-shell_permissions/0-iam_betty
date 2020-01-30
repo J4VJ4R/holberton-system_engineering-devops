@@ -1,2 +1,2 @@
 #!/bin/bash
-usermode -l betty vagrant
+sudo usermode -l betty vagrant
