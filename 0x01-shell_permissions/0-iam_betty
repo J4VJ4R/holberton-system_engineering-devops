@@ -1,2 +1,2 @@
 #!/bin/bash
-usermode -l betty ubuntu
+usermode -l betty vagrant
