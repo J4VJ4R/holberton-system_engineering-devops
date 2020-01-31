@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vagrant:holberton hello
+sudo chown vagrant.holberton hello
