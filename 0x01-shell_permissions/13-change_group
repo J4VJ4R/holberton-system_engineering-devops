@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vagrant:holberton hello
+chown :holberton hello
