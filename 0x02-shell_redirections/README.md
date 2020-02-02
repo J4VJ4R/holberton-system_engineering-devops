@@ -1,2 +1,2 @@
-#THIS TUTORIAL IS ABOUT STANDARD OUTPUT#
-Here we writing a script where we show hello world
+#HELLO WORLD#
+WE WILL SHOW A SCRIPT WITH WITH hello world
