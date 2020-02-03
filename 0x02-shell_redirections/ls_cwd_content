@@ -1,1 +1,23 @@
-
+total 84
+drwxrwxr-x 2 vagrant vagrant 4096 Feb  3 03:42 .
+drwxrwxr-x 6 vagrant vagrant 4096 Feb  2 13:20 ..
+-rwxr-xr-x 1 vagrant vagrant   32 Feb  2 13:53 0-hello_world
+-rwxr-xr-x 1 vagrant vagrant   31 Feb  2 15:48 1-confused_smiley
+-rwxr-xr-x 1 vagrant vagrant   28 Feb  2 17:05 2-hellofile
+-rwxr-xr-x 1 vagrant vagrant   39 Feb  2 18:10 3-twofiles
+-rwxr-xr-x 1 vagrant vagrant   41 Feb  2 17:22 3-twofiles~
+-rwxr-xr-x 1 vagrant vagrant   29 Feb  2 18:34 4-lastlines
+-rwxr-xr-x 1 vagrant vagrant   29 Feb  2 18:42 5-firstlines
+-rwxr-xr-x 1 vagrant vagrant   40 Feb  2 22:36 6-third_line
+-rwxr-xr-x 1 vagrant vagrant   27 Feb  2 18:54 6-third_line~
+-rwxr-xr-x 1 vagrant vagrant  111 Feb  2 22:55 7-file
+-rwxr-xr-x 1 vagrant vagrant   87 Feb  2 22:04 7-file~
+-rwxr-xr-x 1 vagrant vagrant   37 Feb  3 03:42 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant   43 Feb  2 21:56 \*\'Holberton
+-rw-rw-r-- 1 vagrant vagrant   43 Feb  2 21:58 \*\'\'Holberton
+-rw-rw-r-- 1 vagrant vagrant   17 Feb  2 22:49 *\\'"Holberton School"'\*$?*****:)
+-rw-rw-r-- 1 vagrant vagrant   17 Feb  2 22:51 \*\\'"Holberton School"'\*$?*****:)
+-rw-rw-r-- 1 vagrant vagrant   17 Feb  2 22:55 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant  800 Feb  2 19:07 iacta
+-rw-rw-r-- 1 vagrant vagrant    0 Feb  3 03:42 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant   57 Feb  2 13:20 README.md
