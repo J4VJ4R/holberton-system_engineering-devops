@@ -1,3 +1,2 @@
 #!/bin/bash
 less echo {a..z}{a..z} | tr -d oo | tail -10
-
