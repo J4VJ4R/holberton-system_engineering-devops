@@ -2,5 +2,5 @@
 # script that displays
 
 for f in *; do
-  echo "$f"
+  echo "$f" | cut -d '-' -f2
 done
