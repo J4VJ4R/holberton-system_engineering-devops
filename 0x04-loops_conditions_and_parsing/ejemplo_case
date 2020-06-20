@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+x=1
+while [ $x -le 5 ]
+do
+    case $x in
+      1) echo "estás en el caso 1";;
+      2) echo "estás en el caso 2";;
+      3) echo "estás en el caso 3";;
+    esac
+    echo "$x"
+    ((x=x+1))
+done
