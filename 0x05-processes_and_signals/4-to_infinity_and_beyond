@@ -2,8 +2,8 @@
 # script that display To infinity and beyon indefinitely
 
 x=1
-while [ $x -lt 2 ];
+while [ $x -eq 1 ]
 do
-    echo "To infinity and beyon"
+    echo To infinity and beyond
     sleep 2
 done
