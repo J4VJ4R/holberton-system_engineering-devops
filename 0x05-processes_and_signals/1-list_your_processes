@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script show all the process in a list
 
-ps aux
+ps -faux
