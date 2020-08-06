@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# debuging code
+
+sudo service apache2 restart
