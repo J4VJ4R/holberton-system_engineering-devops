@@ -12,7 +12,7 @@ frontend front
 	default_backend back
 backend back
     balance roundrobin
-    server 1147-web-01 34.74.140.171:80 check
-    server 1147-web-02 3.95.67.118:80 check
+    server 1604-web-01 100.26.44.166:80 check
+    server 1604-web-02 18.205.235.240:80 check
 EOF
 service haproxy restart
