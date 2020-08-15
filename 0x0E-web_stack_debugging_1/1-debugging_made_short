@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #task 1 advanced
-
 ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 service nginx restart
 pkill -o nginx
