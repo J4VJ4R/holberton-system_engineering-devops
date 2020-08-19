@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Configure your domain zone
+#Configure your domain zone d
 
 display()
 {
